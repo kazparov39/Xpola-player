@@ -1,10 +1,10 @@
-#EXTINF:-1, tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp", Bein Sports 1
+#EXTINF:-1, Bein Sports 1
 http://gcf.nrslist.com:80/TVD4001/index.mpd
 
-#EXTINF:-1, tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp", Bein Sports 2
+#EXTINF:-1, Bein Sports 2
 http://gcf.nrslist.com:80/TVD4002/index.mpd
 
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png", Bein Sports 3
+#EXTINF:-1, Bein Sports 3
 http://gcf.nrslist.com:80/TVD4003/index.mpd
 
 #EXTINF:-1, Bein Sports 4
