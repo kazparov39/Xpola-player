@@ -1,119 +1,17 @@
-#EXTINF:-1, 1
-http://gcf.nrslist.com/TVN0001/index.mpd
-
-#EXTINF:-1, 2
-http://gcf.nrslist.com/TVN0002/index.mpd
-
-#EXTINF:-1, 3
-http://gcf.nrslist.com/TVN0003/index.mpd
-
-#EXTINF:-1, 4
-http://gcf.nrslist.com/TVN0004/index.mpd
-
-#EXTINF:-1, 5
-http://gcf.nrslist.com/TVN0005/index.mpd
-
-#EXTINF:-1, 6
-http://gcf.nrslist.com/TVN0006/index.mpd
-
-#EXTINF:-1, 7
-http://gcf.nrslist.com/TVN0007/index.mpd
-
-#EXTINF:-1, 8
-http://gcf.nrslist.com/TVN0008/index.mpd
-
-#EXTINF:-1, 9
-http://gcf.nrslist.com/TVN0009/index.mpd
-
-#EXTINF:-1, 10
-http://gcf.nrslist.com/TVN0010/index.mpd
-
-#EXTINF:-1, 11
-http://gcf.nrslist.com/TVN0011/index.mpd
-
-#EXTINF:-1, 12
-http://gcf.nrslist.com/TVN0012/index.mpd
-
-#EXTINF:-1, 13
-http://gcf.nrslist.com/TVN0013/index.mpd
-
-#EXTINF:-1, 14
-http://gcf.nrslist.com/TVN0014/index.mpd
-
-#EXTINF:-1, 15
-http://gcf.nrslist.com/TVN0015/index.mpd
-
-#EXTINF:-1, 16
-http://gcf.nrslist.com/TVN0016/index.mpd
-
-#EXTINF:-1, 17
-http://gcf.nrslist.com/TVN0017/index.mpd
-
-#EXTINF:-1, 18
-http://gcf.nrslist.com/TVN0018/index.mpd
-
-#EXTINF:-1, 19
-http://gcf.nrslist.com/TVN0019/index.mpd
-
-#EXTINF:-1, 20
-http://gcf.nrslist.com/TVN0020/index.mpd
-
-#EXTINF:-1, 21
-http://gcf.nrslist.com/TVN0021/index.mpd
-
-#EXTINF:-1, 22
-http://gcf.nrslist.com/TVN0022/index.mpd
-
-#EXTINF:-1, 23
-http://gcf.nrslist.com/TVN0023/index.mpd
-
-#EXTINF:-1, 24
-http://gcf.nrslist.com/TVN0024/index.mpd
-
-#EXTINF:-1, 25
-http://gcf.nrslist.com/TVN0025/index.mpd
-
-#EXTINF:-1, 26
-http://gcf.nrslist.com/TVN0026/index.mpd
-
-#EXTINF:-1, 27
-http://gcf.nrslist.com/TVN0027/index.mpd
-
-#EXTINF:-1, 28
+#EXTINF:-1, Abu Dhabi Premium 1
 http://gcf.nrslist.com/TVN0028/index.mpd
 
-#EXTINF:-1, 29
+#EXTINF:-1, Abu Dhabi Premium 2
 http://gcf.nrslist.com/TVN0029/index.mpd
 
-#EXTINF:-1, 30
+#EXTINF:-1, Abu Dhabi 1
 http://gcf.nrslist.com/TVN0030/index.mpd
 
-#EXTINF:-1, 31
+#EXTINF:-1, Abu Dhabi 2
 http://gcf.nrslist.com/TVN0031/index.mpd
 
-#EXTINF:-1, 32
+#EXTINF:-1, StarzPlay
 http://gcf.nrslist.com/TVN0032/index.mpd
-
-#EXTINF:-1, 33
-http://gcf.nrslist.com/TVN0033/index.mpd
-
-#EXTINF:-1, 34
-http://gcf.nrslist.com/TVN0034/index.mpd
-
-#EXTINF:-1, 35
-http://gcf.nrslist.com/TVN0035/index.mpd
-
-#EXTINF:-1, 36
-http://gcf.nrslist.com/TVN0036/index.mpd
-
-#EXTINF:-1, 37
-http://gcf.nrslist.com/TVN0037/index.mpd
-
-#EXTINF:-1, 38
-http://gcf.nrslist.com/TVN0038/index.mpd
-
-#EXTINF:-1, 39
-http://gcf.nrslist.com/TVN0039/index.mpd
 
 #EXTINF:-1, BS1
 http://gcf.nrslist.com:80/TVD4001/index.mpd
