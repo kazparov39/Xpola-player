@@ -64,7 +64,7 @@ https://alraqi.ddns.net/Bein9/video.m3u8?token=R5mHy1NkEw-alraqi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTelRWJ-xFFTRDWUT1ZvEjIn-akwdxuxMXTyA&usqp=CAU", Bein Movies 1
 http://gcf.nrslist.com:80/TVD4017/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNLzhsv40nfrjwENmOl5rs5jSUDSbm9WQ3beeVjZUK6tnaCSDJmN8Hsx2&s=10", Bein Movies 2
+#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273918069%27&EntityType=%27Item%27&EntityId=%27173030%27&Width=640&Height=640&ImageUrl=%273918069.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Bein Movies 2
 http://gcf.nrslist.com:80/TVD4018/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLjNQi4xbvVQbRqi-W5rkHWW53ZEJQCC_llkcmscpKhwrlI_9NK3qR-F-&s=10", Bein Movies 3
