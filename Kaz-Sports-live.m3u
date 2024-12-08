@@ -10,6 +10,24 @@ http://gcf.nrslist.com:80/TVD4003/index.mpd
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 4
 http://gcf.nrslist.com:80/TVD4004/index.mpd
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 5
+http://gcf.nrslist.com:80/TVD4005/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 6
+http://gcf.nrslist.com:80/TVD4006/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 7
+http://gcf.nrslist.com:80/TVD4007/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 8
+http://gcf.nrslist.com:80/TVD4062/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg", Bein Sports 9
+http://gcf.nrslist.com:80/TVD4063/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTepmaB1ain6kk08b69DFU3jfuNoL0tPoqA&usqp=CAU", Abu Dhabi Premium 1
+http://gcf.nrslist.com/TVN0028/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdpXjM7djPHUoYL6shd6vddnaxKTCNxsPkg&s", Abu Dhabi Premium 2
 http://gcf.nrslist.com/TVN0029/index.mpd
 
@@ -120,6 +138,3 @@ http://gcf.nrslist.com/TVD4078/index.mpd
 
 #EXTINF:-1, Cosmote Sport HL
 http://gcf.nrslist.com/TVD4079/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu_51bQwNF0OEpiZxwLrEGB1mpwK6OEvzvw&usqp=CAU", Bein Sports 1
-http://gcf.nrslist.com:80/TVD4001/index.mpd
