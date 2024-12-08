@@ -67,10 +67,10 @@ http://gcf.nrslist.com:80/TVD4017/index.mpd
 #EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273918069%27&EntityType=%27Item%27&EntityId=%27173030%27&Width=640&Height=640&ImageUrl=%273918069.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Bein Movies 2
 http://gcf.nrslist.com:80/TVD4018/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLjNQi4xbvVQbRqi-W5rkHWW53ZEJQCC_llkcmscpKhwrlI_9NK3qR-F-&s=10", Bein Movies 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7HlOrrSX7jrjZMAHyzs1hbr1wuw5aWn6s4OJvjjNH9MaDHSkfB5vLQY&s=10", Bein Movies 3
 http://gcf.nrslist.com:80/TVD4029/index.mpd
 
-#EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9VglDMqw3f1hVe-LD90QITZXBX79hShNe211D9WAGnV0P0memp2fVxer&s=10", Bein Movies 4
+#EXTINF:-1 tvg-logo="https://me-static.beinstatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273918093%27&EntityType=%27Item%27&EntityId=%27173032%27&Width=640&Height=640&ImageUrl=%273918093.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Bein Movies 4
 http://gcf.nrslist.com:80/TVD4030/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/The_new_logo_of_beIN_SERIES_at_2017.jpg", Bein Series 1
@@ -138,6 +138,3 @@ http://gcf.nrslist.com/TVD4078/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmO47YFVBD1I4Qycf2z_3h0CM2vwAulEOpJrP6nWiuyzrvVD6FetIKYaj&s=10", Cosmote Sport HL
 http://gcf.nrslist.com/TVD4079/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu_51bQwNF0OEpiZxwLrEGB1mpwK6OEvzvw&usqp=CAU", Bein Sports 1
-http://gcf.nrslist.com:80/TVD4001/index.mpd
