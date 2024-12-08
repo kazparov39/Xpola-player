@@ -1,28 +1,28 @@
-#EXTINF:-1, BS1
+#EXTINF:-1, Bein Sports 1
 http://gcf.nrslist.com:80/TVD4001/index.mpd
 
-#EXTINF:-1, BS2
+#EXTINF:-1, Bein Sports 2
 http://gcf.nrslist.com:80/TVD4002/index.mpd
 
-#EXTINF:-1, BS3
+#EXTINF:-1, Bein Sports 3
 http://gcf.nrslist.com:80/TVD4003/index.mpd
 
-#EXTINF:-1, BS4
+#EXTINF:-1, Bein Sports 4
 http://gcf.nrslist.com:80/TVD4004/index.mpd
 
-#EXTINF:-1, BS5
+#EXTINF:-1, Bein Sports 5
 http://gcf.nrslist.com:80/TVD4005/index.mpd
 
-#EXTINF:-1, BS6
+#EXTINF:-1, Bein Sports 6
 http://gcf.nrslist.com:80/TVD4006/index.mpd
 
-#EXTINF:-1, BS7
+#EXTINF:-1, Bein Sports 7
 http://gcf.nrslist.com:80/TVD4007/index.mpd
 
-#EXTINF:-1, BS8
+#EXTINF:-1, Bein Sports 8
 http://gcf.nrslist.com:80/TVD4062/index.mpd
 
-#EXTINF:-1, BS9
+#EXTINF:-1, Bein Sports 9
 http://gcf.nrslist.com:80/TVD4063/index.mpd
 
 #EXTINF:-1, Abu Dhabi Premium 1
@@ -61,25 +61,25 @@ https://alraqi.ddns.net/Bein8/video.m3u8?token=R5mHy1NkEw-alraqi
 #EXTINF:-1, TOD9
 https://alraqi.ddns.net/Bein9/video.m3u8?token=R5mHy1NkEw-alraqi
 
-#EXTINF:-1, BM1
+#EXTINF:-1, Bein Movies 1
 http://gcf.nrslist.com:80/TVD4017/index.mpd
 
-#EXTINF:-1, BM2
+#EXTINF:-1, Bein Movies 2
 http://gcf.nrslist.com:80/TVD4018/index.mpd
 
-#EXTINF:-1, BM3
+#EXTINF:-1, Bein Movies 3
 http://gcf.nrslist.com:80/TVD4029/index.mpd
 
-#EXTINF:-1, BM4
+#EXTINF:-1, Bein Movies 4
 http://gcf.nrslist.com:80/TVD4030/index.mpd
 
-#EXTINF:-1, BS1
+#EXTINF:-1, Bein Series 1
 http://gcf.nrslist.com:80/TVD4050/index.mpd
 
-#EXTINF:-1, BS2
+#EXTINF:-1, Bein Series 2
 http://gcf.nrslist.com:80/TVD4051/index.mpd
 
-#EXTINF:-1, BDRAMA
+#EXTINF:-1, Bein Drama
 http://gcf.nrslist.com:80/TVD4055/index.mpd
 
 #EXTINF:-1, SSC1
@@ -109,35 +109,32 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 #EXTINF:-1, SSCNEWS
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd?|drmScheme=clearkey&drmLicense=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 
-#EXTINF:-1, COS1
+#EXTINF:-1, Cosmote Sport 1
 http://gcf.nrslist.com/TVD4070/index.mpd
 
-#EXTINF:-1, COS2
+#EXTINF:-1, Cosmote Sport 2
 http://gcf.nrslist.com/TVD4071/index.mpd
 
-#EXTINF:-1, COS3
+#EXTINF:-1, Cosmote Sport 3
 http://gcf.nrslist.com/TVD4072/index.mpd
 
-#EXTINF:-1, COS4
+#EXTINF:-1, Cosmote Sport 4
 http://gcf.nrslist.com/TVD4073/index.mpd
 
-#EXTINF:-1, COS5
+#EXTINF:-1, Cosmote Sport 5
 http://gcf.nrslist.com/TVD4074/index.mpd
 
-#EXTINF:-1, COS6
+#EXTINF:-1, Cosmote Sport 6
 http://gcf.nrslist.com/TVD4075/index.mpd
 
-#EXTINF:-1, COS6
-http://gcf.nrslist.com/TVD4075/index.mpd
-
-#EXTINF:-1, COS7
+#EXTINF:-1, Cosmote Sport 7
 http://gcf.nrslist.com/TVD4076/index.mpd
 
-#EXTINF:-1, COS8
+#EXTINF:-1, Cosmote Sport 8
 http://gcf.nrslist.com/TVD4077/index.mpd
 
-#EXTINF:-1, COS9
+#EXTINF:-1, Cosmote Sport 9
 http://gcf.nrslist.com/TVD4078/index.mpd
 
-#EXTINF:-1, COSHL
+#EXTINF:-1, Cosmote Sport HL
 http://gcf.nrslist.com/TVD4079/index.mpd
