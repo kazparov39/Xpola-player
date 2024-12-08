@@ -1,18 +1,3 @@
-#EXTINF:-1, Abu Dhabi Premium 1
-http://gcf.nrslist.com/TVN0028/index.mpd
-
-#EXTINF:-1, Abu Dhabi Premium 2
-http://gcf.nrslist.com/TVN0029/index.mpd
-
-#EXTINF:-1, Abu Dhabi 1
-http://gcf.nrslist.com/TVN0030/index.mpd
-
-#EXTINF:-1, Abu Dhabi 2
-http://gcf.nrslist.com/TVN0031/index.mpd
-
-#EXTINF:-1, StarzPlay
-http://gcf.nrslist.com/TVN0032/index.mpd
-
 #EXTINF:-1, BS1
 http://gcf.nrslist.com:80/TVD4001/index.mpd
 
@@ -87,6 +72,21 @@ http://gcf.nrslist.com:80/TVD4051/index.mpd
 
 #EXTINF:-1, BDRAMA
 http://gcf.nrslist.com:80/TVD4055/index.mpd
+
+#EXTINF:-1, Abu Dhabi Premium 1
+http://gcf.nrslist.com/TVN0028/index.mpd
+
+#EXTINF:-1, Abu Dhabi Premium 2
+http://gcf.nrslist.com/TVN0029/index.mpd
+
+#EXTINF:-1, Abu Dhabi 1
+http://gcf.nrslist.com/TVN0030/index.mpd
+
+#EXTINF:-1, Abu Dhabi 2
+http://gcf.nrslist.com/TVN0031/index.mpd
+
+#EXTINF:-1, StarzPlay
+http://gcf.nrslist.com/TVN0032/index.mpd
 
 #EXTINF:-1, SSC1
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
