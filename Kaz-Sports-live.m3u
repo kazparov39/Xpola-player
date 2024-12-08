@@ -138,3 +138,6 @@ http://gcf.nrslist.com/TVD4078/index.mpd
 
 #EXTINF:-1, Cosmote Sport HL
 http://gcf.nrslist.com/TVD4079/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu_51bQwNF0OEpiZxwLrEGB1mpwK6OEvzvw&usqp=CAU", Bein Sports 1
+http://gcf.nrslist.com:80/TVD4001/index.mpd
