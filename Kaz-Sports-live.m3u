@@ -31,7 +31,7 @@ http://gcf.nrslist.com/TVN0028/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdpXjM7djPHUoYL6shd6vddnaxKTCNxsPkg&s", Abu Dhabi Premium 2
 http://gcf.nrslist.com/TVN0029/index.mpd
 
-#EXTINF:-1, StarzPlay
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23zBjQ3Lc-iFIRSgIjeAPmBgnLno3mac4Qq0J_kp-alJ50SPnseLVdmnC&s=10", StarzPlay
 http://gcf.nrslist.com/TVN0032/index.mpd
 
 #EXTINF:-1, TOD1
