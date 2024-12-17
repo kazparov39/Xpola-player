@@ -165,3 +165,97 @@ http://gcf.nrslist.com/TVD024/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10", Sky SPORTS 9
 http://gcf.nrslist.com/TVD016/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69698514771.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 1 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10215
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sport 1 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10216
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69162360981.png" group-title="BEIN SPORTS SD ONLY",FR: Bein Sport 1 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10217
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52684362631.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 2 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10218
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63674873011.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 2 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10219
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports 2 HD"tvg-logo="https://img-cdn.curl.pk/channels_icon/53396148581.png" group-title="BEIN SPORTS SD ONLY",TR: Bein Sports 2 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10220
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 3 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 3 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10221
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82458133391.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sports 3 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10222
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79505812141.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 3 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10223
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97601028691.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 3 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10224
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 4 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28714264671.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 4 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10225
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58443302111.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 4 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10226
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76324708471.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 4 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10227
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84891170391.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 5 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10228
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 5 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41550855361.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 5 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10229
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93929559641.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 5 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10230
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 6 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90045981471.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 6 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10231
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport HD 6" tvg-logo="https://img-cdn.curl.pk/channels_icon/29370912971.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport HD 6
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10232
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99018154131.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 6 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10233
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 7 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66119205071.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 7 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10234
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 7 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42252951371.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sports 7 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10235
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport HD 7" tvg-logo="https://img-cdn.curl.pk/channels_icon/54945492311.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport HD 7
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10236
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20103588961.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sport 8 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10237
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 9 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17293656281.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sports 9 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10238
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 9 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47313066651.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 9 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10239
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 10 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38086560661.png" group-title="BEIN SPORTS SD ONLY",AR: Bein Sports 10 SD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10240
+#EXTINF:-1 tvg-id="" tvg-name="AR: Vip Bein Sports 10 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31963047111.png" group-title="BEIN SPORTS SD ONLY",AR: Vip Bein Sports 10 HD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10241
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86737262241.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 3 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10187
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 English FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/141612a5e10cc843074330323410b7a5.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 3 English FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10188
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 Premium FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19857905761.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 3 Premium FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10189
+#EXTINF:-1 tvg-id="" tvg-name="UK : Bein Sports 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/63467181091.png" group-title="BEIN SPORTS HD & 4K 1",UK : Bein Sports 3
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10190
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22192559271.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 4 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10191
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 Premium 4k Pure" tvg-logo="https://img-cdn.curl.pk/channels_icon/52115362531.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 3 Premium 4k Pure
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10192
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 4 4k Pure" tvg-logo="https://img-cdn.curl.pk/channels_icon/91736550761.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 4 4k Pure
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10193
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 6 4k Pure" tvg-logo="https://img-cdn.curl.pk/channels_icon/22767561871.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 6 4k Pure
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10196
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 7 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45793729681.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 7 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10198
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 7 4k" tvg-logo="https://img-cdn.curl.pk/channels_icon/19726475411.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 7 4k
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10199
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 1 Premium FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99716395641.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 1 Premium FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10204
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 1 Premium FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79542237451.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 1 Premium FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10205
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 2 Premium" tvg-logo="https://img-cdn.curl.pk/channels_icon/71468674371.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports 2 Premium
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10206
+#EXTINF:-1 tvg-id="" tvg-name="BEin Sports Xtra 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66022462131.png" group-title="BEIN SPORTS HD & 4K 1",BEin Sports Xtra 1 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10207
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports News" tvg-logo="https://img-cdn.curl.pk/channels_icon/18876629091.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sports News
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10208
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport Max 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61220083201.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sport Max 1 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10209
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport Max 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/77321208931.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sport Max 2 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10210
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein sport max 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f0551b9dcdb8ac253f6be74dee2cb83b.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein sport max 3 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10211
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport Max 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73909491001.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sport Max 4 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10212
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport Max 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35188838571.png" group-title="BEIN SPORTS HD & 4K 1",AR: Bein Sport Max 5 FHD
+http://megaott.live:8080/TeamLive24/WmRuVr2Z9rpP/10213
